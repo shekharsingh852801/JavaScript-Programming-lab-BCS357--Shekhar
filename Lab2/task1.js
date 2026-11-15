@@ -1,0 +1,12 @@
+// Name: Shekhar Singh
+// Roll Number / Student ID: BCS2025357
+// Section: D
+// Lab 2 - Task 1: Arithmetic operators on 17 and 5
+
+let a = 17;
+let b = 5;
+
+console.log(a + b);
+console.log(a - b);
+console.log(a * b);
+console.log(a / b);
